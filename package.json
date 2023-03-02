@@ -1,0 +1,20 @@
+{
+  "name": "node-express-rest-api",
+  "version": "1.0.0",
+  "description": "Node.JS and Express.JS - REST API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Jorge S. Sanchez / Software Engineer / Web Developer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
